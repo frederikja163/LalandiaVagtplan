@@ -1,0 +1,16 @@
+C:\Users\Frederik\Projects\LalandiaVagplan\LalandiaVagplan\bin\Debug\net6.0\LalandiaVagplan.exe
+C:\Users\Frederik\Projects\LalandiaVagplan\LalandiaVagplan\bin\Debug\net6.0\Workers.json
+C:\Users\Frederik\Projects\LalandiaVagplan\LalandiaVagplan\bin\Debug\net6.0\LalandiaVagplan.deps.json
+C:\Users\Frederik\Projects\LalandiaVagplan\LalandiaVagplan\bin\Debug\net6.0\LalandiaVagplan.runtimeconfig.json
+C:\Users\Frederik\Projects\LalandiaVagplan\LalandiaVagplan\bin\Debug\net6.0\LalandiaVagplan.dll
+C:\Users\Frederik\Projects\LalandiaVagplan\LalandiaVagplan\bin\Debug\net6.0\LalandiaVagplan.pdb
+C:\Users\Frederik\Projects\LalandiaVagplan\LalandiaVagplan\obj\Debug\net6.0\LalandiaVagplan.csproj.AssemblyReference.cache
+C:\Users\Frederik\Projects\LalandiaVagplan\LalandiaVagplan\obj\Debug\net6.0\LalandiaVagplan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Frederik\Projects\LalandiaVagplan\LalandiaVagplan\obj\Debug\net6.0\LalandiaVagplan.AssemblyInfoInputs.cache
+C:\Users\Frederik\Projects\LalandiaVagplan\LalandiaVagplan\obj\Debug\net6.0\LalandiaVagplan.AssemblyInfo.cs
+C:\Users\Frederik\Projects\LalandiaVagplan\LalandiaVagplan\obj\Debug\net6.0\LalandiaVagplan.csproj.CoreCompileInputs.cache
+C:\Users\Frederik\Projects\LalandiaVagplan\LalandiaVagplan\obj\Debug\net6.0\LalandiaVagplan.dll
+C:\Users\Frederik\Projects\LalandiaVagplan\LalandiaVagplan\obj\Debug\net6.0\refint\LalandiaVagplan.dll
+C:\Users\Frederik\Projects\LalandiaVagplan\LalandiaVagplan\obj\Debug\net6.0\LalandiaVagplan.pdb
+C:\Users\Frederik\Projects\LalandiaVagplan\LalandiaVagplan\obj\Debug\net6.0\LalandiaVagplan.genruntimeconfig.cache
+C:\Users\Frederik\Projects\LalandiaVagplan\LalandiaVagplan\obj\Debug\net6.0\ref\LalandiaVagplan.dll
