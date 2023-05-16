@@ -70,6 +70,7 @@ namespace LalandiaVagplan
                             slot[station] = worker;
                             worker.TiredLevel += Util.StationToTireLevel(station) + Random.Shared.Next() % 3;
                             orderedWorkers.Remove(worker);
+                            j--;
                             selectedWorkers++;
                         }
                     }
